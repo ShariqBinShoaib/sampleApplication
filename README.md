@@ -1,3 +1,3 @@
 # My App
 
-This is sample for practice
+This is sample app for practice
